@@ -7,18 +7,18 @@ const Info_desc2 = () => {
       <div>
         <h1>Plans de bureaux virtuels en Suisse adaptés à votre entreprise.</h1>
         <h4>
-          Tous nos plans de bureau virtuels couvrent l'essentiel, avec une marge
-          de croissance.
+          Tous nos plans de bureau virtuels couvrent l&apos;essentiel, avec une
+          marge de croissance.
         </h4>
         <div>
           <IoIosCheckmarkCircle />
-          <span className="pl-20">Pas de frais d'installation</span>
+          <span className="pl-20">Pas de frais d&apos;installation</span>
           <div>
             <IoIosCheckmarkCircle />
             Aucun dépôt de garantie
           </div>
           <IoIosCheckmarkCircle />
-          <div>30 jours d'essai sans engagement</div>
+          <div>30 jours d&apos;essai sans engagement</div>
         </div>
         <h4>
           Tous les emplacements ont les commodités nécessaires pour servir votre
@@ -26,7 +26,7 @@ const Info_desc2 = () => {
         </h4>
         <div>
           <div>
-            Réceptionniste et personnel d'exploitation pour soutenir votre
+            Réceptionniste et personnel d&apos;exploitation pour soutenir votre
             entreprise
           </div>
           <div>Traitement et réexpédition du courrier</div>
